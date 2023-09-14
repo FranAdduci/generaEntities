@@ -1,0 +1,22 @@
+{
+  "name": "generaentities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranAdduci/generaEntities.git"
+  },
+  "author": "Franco Adduci",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/FranAdduci/generaEntities/issues"
+  },
+  "homepage": "https://github.com/FranAdduci/generaEntities#readme"
+}
